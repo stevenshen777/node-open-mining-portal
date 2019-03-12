@@ -1,0 +1,7 @@
+{
+    "name": "Miascoin",
+    "symbol": "MIAS",
+    "algorithm": "scrypt",
+    "peerMagic": "f2c1b7d6",
+    "peerMagicTestnet": "fdd2c8f1"
+}
